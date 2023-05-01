@@ -3,4 +3,4 @@
 // ? 'http://localhost:3030'//http://localhost:3030
 // : 'http://localhost:3030'; // TODO: Add server url when deployed
 
-export const baseUrl = 'http://server-node-js-mu.vercel.app'
+export const baseUrl = 'http://react-project-vercel-server.vercel.app'
